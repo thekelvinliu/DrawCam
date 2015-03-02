@@ -13,6 +13,7 @@ import pygame.freetype
 from pygame.locals import *
 
 __author__ = "Kelvin Liu"
+__copyright__ = "Copyright 2015, Kelvin Liu"
 __version__ = "1.1.0"
 __email__ = "kelvin@thekelvinliu.com"
 
